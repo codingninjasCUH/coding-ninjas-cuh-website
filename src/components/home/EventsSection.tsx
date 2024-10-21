@@ -27,8 +27,10 @@ export default function EventsSection() {
               className={"mx-auto text-primary-600"}
             />
 
-            <h2 className={"font-semibold text-xl text-center"}>Workshops</h2>
-            <p className={"text-justify"}>
+            <h2 className={"font-semibold text-lg sm:text-xl text-center"}>
+              Workshops
+            </h2>
+            <p className={"text-justify text-sm sm:text-base"}>
               Regularly scheduled workshops provide a structured, hands-on
               learning environment to sharpen programming skills and steadily
               progress toward expertise.
@@ -46,8 +48,10 @@ export default function EventsSection() {
               className={"mx-auto text-primary-600"}
             />
 
-            <h2 className={"font-semibold text-xl text-center"}>Seminars</h2>
-            <p className={"text-justify"}>
+            <h2 className={"font-semibold text-lg sm:text-xl text-center"}>
+              Seminars
+            </h2>
+            <p className={"text-justify text-sm sm:text-base"}>
               Seminars are designed to equip students with essential knowledge
               and tools for excelling in the workplace and advancing their
               technical proficiency.
@@ -65,8 +69,10 @@ export default function EventsSection() {
               className={"mx-auto text-primary-600"}
             />
 
-            <h2 className={"font-semibold text-xl text-center"}>Codathons</h2>
-            <p className={"text-justify"}>
+            <h2 className={"font-semibold text-lg sm:text-xl text-center"}>
+              Codathons
+            </h2>
+            <p className={"text-justify text-sm sm:text-base"}>
               Codathons challenge coders of all levels to assess and enhance
               coding abilities, fostering growth and career advancement in a
               competitive, collaborative setting.
@@ -84,8 +90,10 @@ export default function EventsSection() {
               className={"mx-auto text-primary-600"}
             />
 
-            <h2 className={"font-semibold text-xl text-center"}>Hackathons</h2>
-            <p className={"text-justify"}>
+            <h2 className={"font-semibold text-lg sm:text-xl text-center"}>
+              Hackathons
+            </h2>
+            <p className={"text-justify text-sm sm:text-base"}>
               Hackathons offer opportunities to develop innovative software
               projects, pitch ideas, and receive guidance, creating a space for
               innovation.
@@ -103,10 +111,10 @@ export default function EventsSection() {
               className={"mx-auto text-primary-600"}
             />
 
-            <h2 className={"font-semibold text-xl text-center"}>
+            <h2 className={"font-semibold text-lg sm:text-xl text-center"}>
               Expert Talks
             </h2>
-            <p className={"text-justify"}>
+            <p className={"text-justify text-sm sm:text-base"}>
               Expert talks feature seasoned professionals sharing valuable
               insights, promoting knowledge exchange, continuous learning and
               collaboration.
@@ -124,10 +132,10 @@ export default function EventsSection() {
               className={"mx-auto text-primary-600"}
             />
 
-            <h2 className={"font-semibold text-xl text-center"}>
+            <h2 className={"font-semibold text-lg sm:text-xl text-center"}>
               Fun & Cultural Events
             </h2>
-            <p className={"text-justify"}>
+            <p className={"text-justify text-sm sm:text-base"}>
               Cultural events promote understanding through diverse traditions,
               art, music, and meaningful dialogue, offering vibrant and
               enriching experiences.
