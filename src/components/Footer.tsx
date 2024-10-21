@@ -5,6 +5,7 @@ import { InstagramIcon } from "@/icons/InstagramIcon";
 import { LinkedinIcon } from "@/icons/LinkedinIcon";
 import { TwitterIcon } from "@/icons/TwitterIcon";
 import { Image } from "@nextui-org/image";
+import { GithubIcon } from "@/icons/GithubIcon";
 
 export default function Footer() {
   return (
@@ -24,6 +25,9 @@ export default function Footer() {
             </Link>
             <Link href="#">
               <TwitterIcon width={24} height={24} />
+            </Link>
+            <Link href="#">
+              <GithubIcon width={24} height={24} />
             </Link>
           </div>
           <Divider className={"hidden sm:block"} />
